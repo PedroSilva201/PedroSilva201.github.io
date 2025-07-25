@@ -4,3 +4,4 @@ Para quem quer saber como eu fiz isso, basta fazer este curso organizado pela FG
 Em breve teremos a documentação tecínica neste e nos demais projetos que eu realizei até aqui.
 O site está passando por uma forte atualização e com isso aos poucos todos os meus projetos no github (exceto projetos coletivos e projetos privados) serão inseridos neste site, bem como suas descrições que aparecerão em breve.
 As estrelas que eu dei nos meus projetos é apenas para facilitar a organização, inclusive nos projetos privados, aqueles que foram deixados como privados foram aqueles que não possui código ou problemas graves, foram colocado todos os projetos, mesmo aqueles que estão inacabados, mas depois disso, deve voltar a ter as estrelas removidas.
+E com isso todos os meus certificados e os meus projetos, inclusive os incompletos estão no sistema, a exceção daqueles que são considerados privados, ou por ausencia de código ou por estarem incompletos e serão atualizados.
