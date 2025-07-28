@@ -18,3 +18,6 @@ A próxima fase será a pesquisa por projetos feitos e realizados de forma colet
 Além disso TODOS os repositórios sem documentação no GIT terão aquivos em Markdown para serem inseridos suas descrições, bem como aqueles que possui uma escrita sem detalhes.
 
 Atualizado em 28 de julho de 2025 as 16:48:42
+
+# NOVIDADE!!!!
+Agora voce poderá ver tambem na página do <a href="https://www.99freelas.com.br/user/Pedro-reginaldo-tome-silva-silva">99 freelas para trabalhos como freelancer</a> uma vez que esta modalidade poderá ajudar a reconduzir a um emprego fixo.
