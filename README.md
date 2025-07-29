@@ -19,5 +19,8 @@ Além disso TODOS os repositórios sem documentação no GIT terão aquivos em M
 
 Atualizado em 28 de julho de 2025 as 16:48:42
 
+# Porjetos em Grupo
+Foram repassado todos os projetos, mesmo aqueles que não tive participação direta dos anos de 2020 e 2021, os demais serão repassados ao longo do tempo, primeiramente pelo histórico do git
+
 # NOVIDADE!!!!
 Agora voce poderá ver tambem na página do <a href="https://www.99freelas.com.br/user/Pedro-reginaldo-tome-silva-silva">99 freelas para trabalhos como freelancer</a> uma vez que esta modalidade poderá ajudar a reconduzir a um emprego fixo.
